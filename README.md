@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Samran Hamza
 
-I'm a Engineer, Analyst **WordPress, React.js, and UI/UX Design**. Passionate about building functional and visually appealing web applications.
+I'm a Engineer, Analyst, Passionate about building functional and visually appealing web applications.
 
 [![Github](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
